@@ -65,6 +65,8 @@ public class Poker {
 		lookPoker(hm, longwu, "ÁúÎå");
 		lookPoker(hm, me, "·ë¼Ñ");
 		lookPoker(hm, dipai, "µ×ÅÆ");
+		lookPoker(hm, dipai, "kafaceshi02");
+		
 	}
 	/*
 	 * ¿´ÅÆ
