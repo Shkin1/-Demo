@@ -77,8 +77,5 @@ public class Poker {
 			System.out.print(hm.get(i) + " ");
 		}
 		System.out.println();
-		System.out.println("this is develop02 test01")
-		
-		
 	}
 }

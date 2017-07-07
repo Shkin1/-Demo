@@ -77,8 +77,14 @@ public class Poker {
 			System.out.print(hm.get(i) + " ");
 		}
 		System.out.println();
+<<<<<<< HEAD
 		System.out.println("this is develop02 test01")
+=======
+		System.out.println("test");
+		System.out.println("test01");
+		System.out.println("test02");
 		
 		
+>>>>>>> develop
 	}
 }
