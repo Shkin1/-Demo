@@ -65,6 +65,8 @@ public class Poker {
 		lookPoker(hm, longwu, "ÁúÎå");
 		lookPoker(hm, me, "·ë¼Ñ");
 		lookPoker(hm, dipai, "µ×ÅÆ");
+		lookPoker(hm, dipai, "kafaceshi02");
+		
 	}
 	/*
 	 * ¿´ÅÆ
@@ -77,10 +79,13 @@ public class Poker {
 			System.out.print(hm.get(i) + " ");
 		}
 		System.out.println();
-		System.out.println("test");
-		System.out.println("test01");
-		System.out.println("test02");
+		System.out.println("this is develop02 test01")
 		
+		println("test===02")
+		println("test===01")
+		println("ceshi===001")
+		println("this is kaifaceshi01")
+		println("this is kaifaceshi001")
 		
 	}
 }
