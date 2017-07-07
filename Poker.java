@@ -79,6 +79,7 @@ public class Poker {
 		System.out.println();
 		System.out.println("this is develop02 test01")
 		
+		println("test===02")
 		
 	}
 }
