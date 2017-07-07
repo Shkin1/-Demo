@@ -79,6 +79,8 @@ public class Poker {
 		System.out.println();
 		System.out.println("test");
 		System.out.println("test01");
+		System.out.println("test02");
+		
 		
 	}
 }
